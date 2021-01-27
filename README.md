@@ -5,7 +5,7 @@ app for subway
 
 
 #
-2021 01 14
+2021. 01. 14.
 
 UPDATE
 
