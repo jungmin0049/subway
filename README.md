@@ -1,8 +1,9 @@
 # subway
 app for subway
 #gui > python 
-#find root > c++ 
 
+#find root > c++ 
+#base> c 
 
 #
 2021. 1. 14.
